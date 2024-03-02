@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+  color: white;
+  font-size: xxx-large;
+  margin-top: 50px;
+  font-weight: bold;
+  }
+h2 {
+    font-size: x-large;
+    color: white;
+    margin-top: 50px;
+  }
+ 
+  
+  #question-container {
+    
+    margin-top: 50px;
+  }
+  
+  #result {
+    margin-top: 50px;
+  }
+  
+  #score {
+    margin-top: 10px;
+  }
+  body{
+    background-image: url(https://media4.giphy.com/media/aRZ4vTsHnyW6A/giphy.gif?cid=ecf05e47frlll05ot3id8qc504v4r9l3d3261s1me8cl24fh&rid=giphy.gif&ct=g);
+  }

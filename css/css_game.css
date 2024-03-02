@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+    margin-top: 50px;
+    font-weight: bolder;
+  }
+  
+  #name-prompt {
+    display: none;
+  }
+  
+  #question-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  #result {
+    margin-top: 10px;
+  }
+  
+  #score {
+    margin-top: 10px;
+  }
+  body{
+    background-image: url(https://media2.giphy.com/media/BHNfhgU63qrks/200.webp?cid=ecf05e4756vzwlvd7fmubgcr0s7b12f2jptn1jj1pyrmcwnx&rid=200.webp&ct=g);
+  }
